@@ -48,7 +48,9 @@ img{
 .get-in-touch{
     margin-top: 160px;
 }
-
+.get-in-touch-title{
+    font-size: xx-large;
+}
 /* main-action */
 
 .productive-users{
@@ -81,8 +83,13 @@ footer{
     text-align: center;
     width: 50%;
     margin-top: 160px;
+    margin-bottom: 160px;
 }
 
 li{
     list-style: none;
+}
+
+footer h1{
+    font-size: 70px;
 }
