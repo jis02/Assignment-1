@@ -82,3 +82,7 @@ footer{
     width: 50%;
     margin-top: 160px;
 }
+
+li{
+    list-style: none;
+}
