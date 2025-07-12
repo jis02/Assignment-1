@@ -45,6 +45,10 @@ img{
     border-radius: 25px;
 }
 
+.get-in-touch{
+    margin-top: 160px;
+}
+
 /* main-action */
 
 .productive-users{
@@ -55,9 +59,26 @@ img{
     text-align: center;
 }
 
+main{
+    max-width: 1150px;
+    margin: 0 auto;
+    margin-top: 160px;
+}
+
+.productive-users{
+    border-radius: 24px;
+    margin-top: 160px;
+}
+
+.productive-users-title{
+    padding: 1px;
+    font-size: 50px;
+}
+
 /* footer */
 footer{
     margin: auto;
     text-align: center;
     width: 50%;
+    margin-top: 160px;
 }
